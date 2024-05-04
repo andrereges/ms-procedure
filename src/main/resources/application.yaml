@@ -1,0 +1,11 @@
+server:
+  port: ${SERVER_PORT:8080}
+  shutdown: graceful
+
+spring:
+  profiles:
+    active: ${ACTIVE_PROFILE:dev}
+  application:
+    name: @project.artifactId@
+    version: @project.version@
+    platform: WEB
