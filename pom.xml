@@ -13,7 +13,7 @@
 
 	<groupId>br.com.studioluanalima</groupId>
 	<artifactId>procedure</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>MS Procedure</name>
 	<description>Microserviço responsável por gerenciar procedimentos do Studio Luana Lima</description>
 
